@@ -46,3 +46,8 @@ The introduction of each <code> py </code> file is as follows:
     
 ## 2. Train the model:
     python train_CLDOT.py
+
+
+# Acknowledgments
+This project is built with the reference to the following open-source projects:
+[HiGeoMVP](https://github.com/matcyr/Hi-GeoMVP).
