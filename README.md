@@ -1,6 +1,6 @@
 # paper_CLDOT
 
-This is the PyTorch implementation for paper "Intra- and Cross-modal Contrastive Learning on Multi-granularity Omics and Biomedical Text for Drug Response Prediction".
+This is the PyTorch implementation for paper "Contrastive Learning on Dual-granularity Omics and Biomedical Text for Drug Response Prediction".
 
 
 ## Environment:
